@@ -1,0 +1,17 @@
+body{
+background-color: black;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: teal;
+    height: min-content;
+    width: 900px;
+    margin: auto;
+}
+#bulb{
+    margin-top: 10%;
+    margin-left: 43%;
+    
+}
